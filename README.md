@@ -15,7 +15,7 @@ Improved implementation of Wasserstein GAN in keras using MNIST dataset.
 </tr>
 <tr>
 <td><img src = 'results/DCGAN_animation.gif'>
-<td><img src = 'results/WGAN_animation.gif'>
+<td><img src = 'results/WCGAN_animation.gif'>
 </tr>
 </table>
 
